@@ -1,0 +1,17 @@
+*.exr filter=lfs diff=lfs merge=lfs -text
+*.jpg filter=lfs diff=lfs merge=lfs -text
+*.tif filter=lfs diff=lfs merge=lfs -text
+*.fbx filter=lfs diff=lfs merge=lfs -text
+*.tga filter=lfs diff=lfs merge=lfs -text
+*.png filter=lfs diff=lfs merge=lfs -text
+*.aif filter=lfs diff=lfs merge=lfs -text
+*.wav filter=lfs diff=lfs merge=lfs -text
+*.ttf filter=lfs diff=lfs merge=lfs -text
+*.dll filter=lfs diff=lfs merge=lfs -text
+*.guiskin filter=lfs diff=lfs merge=lfs -text
+*.bundle filter=lfs diff=lfs merge=lfs -text
+*.dylib filter=lfs diff=lfs merge=lfs -text
+*.so filter=lfs diff=lfs merge=lfs -text
+*.so.disabled filter=lfs diff=lfs merge=lfs -text
+Assets/Oculus/Platform/Plugins/MacOSX/ovrplatform.bundle/Contents/MacOS/ovrplatform filter=lfs diff=lfs merge=lfs -text
+Assets/Oculus/LipSync/Assets/OfflineModel/ovrlipsync_offline_model.pb filter=lfs diff=lfs merge=lfs -text
